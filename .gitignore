@@ -1,0 +1,6 @@
+myenv
+venv
+__pycache__
+*.csv
+analysis_output/
+sms_exports
